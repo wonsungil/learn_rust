@@ -5,45 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1870b5af-42d7-4bea-9b4c-bf2d2dcba886" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn_rust.iml" beforeDir="false" afterPath="$PROJECT_DIR$/learn_rust.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.rustc_info.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CACHEDIR.TAG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/.cargo-lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/Learn_rust-e02376d0423871da/bin-Learn_rust" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/Learn_rust-e02376d0423871da/bin-Learn_rust.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/Learn_rust-e02376d0423871da/dep-bin-Learn_rust" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/Learn_rust-e02376d0423871da/invoked.timestamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/Learn_rust-e02376d0423871da/output-bin-Learn_rust" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/Learn_rust" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/Learn_rust.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/deps/Learn_rust-e02376d0423871da" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/deps/Learn_rust-e02376d0423871da.1a57wg03fe8dwfu2.rcgu.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/deps/Learn_rust-e02376d0423871da.1ydvdls7xpltc99c.rcgu.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/deps/Learn_rust-e02376d0423871da.2wlv1olk5iusfcfn.rcgu.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/deps/Learn_rust-e02376d0423871da.3jbmh6gf8aeupkr1.rcgu.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/deps/Learn_rust-e02376d0423871da.3th98zy1w1fnginb.rcgu.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/deps/Learn_rust-e02376d0423871da.41ad9hdg2f0ivzox.rcgu.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/deps/Learn_rust-e02376d0423871da.4evgqunr1nkrsamg.rcgu.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/deps/Learn_rust-e02376d0423871da.5csl3ye2a5yi9eng.rcgu.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/deps/Learn_rust-e02376d0423871da.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Learn_rust-1jrkh42q0ihfb/s-g6wa1epyvq-4equko-2fo30dnf650tc/1a57wg03fe8dwfu2.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Learn_rust-1jrkh42q0ihfb/s-g6wa1epyvq-4equko-2fo30dnf650tc/1ydvdls7xpltc99c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Learn_rust-1jrkh42q0ihfb/s-g6wa1epyvq-4equko-2fo30dnf650tc/2wlv1olk5iusfcfn.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Learn_rust-1jrkh42q0ihfb/s-g6wa1epyvq-4equko-2fo30dnf650tc/3jbmh6gf8aeupkr1.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Learn_rust-1jrkh42q0ihfb/s-g6wa1epyvq-4equko-2fo30dnf650tc/3th98zy1w1fnginb.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Learn_rust-1jrkh42q0ihfb/s-g6wa1epyvq-4equko-2fo30dnf650tc/41ad9hdg2f0ivzox.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Learn_rust-1jrkh42q0ihfb/s-g6wa1epyvq-4equko-2fo30dnf650tc/4evgqunr1nkrsamg.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Learn_rust-1jrkh42q0ihfb/s-g6wa1epyvq-4equko-2fo30dnf650tc/5csl3ye2a5yi9eng.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Learn_rust-1jrkh42q0ihfb/s-g6wa1epyvq-4equko-2fo30dnf650tc/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Learn_rust-1jrkh42q0ihfb/s-g6wa1epyvq-4equko-2fo30dnf650tc/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Learn_rust-1jrkh42q0ihfb/s-g6wa1epyvq-4equko-2fo30dnf650tc/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Learn_rust-1jrkh42q0ihfb/s-g6wa1epyvq-4equko.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +76,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="settings.editor.selected.configurable" value="language.rust" />
   </component>
@@ -161,7 +124,7 @@
       <workItem from="1644416889727" duration="385000" />
       <workItem from="1644417599416" duration="67000" />
       <workItem from="1644417696934" duration="265000" />
-      <workItem from="1644417988337" duration="37000" />
+      <workItem from="1644417988337" duration="177000" />
     </task>
     <servers />
   </component>
