@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="CargoProjects">
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1870b5af-42d7-4bea-9b4c-bf2d2dcba886" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/hello/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/learn_rust-6d8d79ab26e12253/bin-learn_rust" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/learn_rust-6d8d79ab26e12253/bin-learn_rust" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/learn_rust-6d8d79ab26e12253/bin-learn_rust.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/learn_rust-6d8d79ab26e12253/bin-learn_rust.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/learn_rust-6d8d79ab26e12253" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/learn_rust-6d8d79ab26e12253" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/learn_rust-6d8d79ab26e12253.42huuxq9zymgts0v.rcgu.o" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/learn_rust-6d8d79ab26e12253.42huuxq9zymgts0v.rcgu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/learn_rust-6d8d79ab26e12253.euqni4iyd6nx2zm.rcgu.o" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/learn_rust-6d8d79ab26e12253.euqni4iyd6nx2zm.rcgu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/learn_rust-20zevlgb18uqb/s-g6wb7ojesl-dbk8b-1opv56rsmu24p/1ng9cot7mq4wlrxv.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/learn_rust-20zevlgb18uqb/s-g6wb7ojesl-dbk8b-1opv56rsmu24p/28bnea20q4rix3e9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/learn_rust-20zevlgb18uqb/s-g6wb7ojesl-dbk8b-1opv56rsmu24p/2iwway4am7gu40ef.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/learn_rust-20zevlgb18uqb/s-g6wb7ojesl-dbk8b-1opv56rsmu24p/30a273zpdiwg436e.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/learn_rust-20zevlgb18uqb/s-g6wb7ojesl-dbk8b-1opv56rsmu24p/42huuxq9zymgts0v.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/learn_rust-20zevlgb18uqb/s-g6wb7ojesl-dbk8b-1opv56rsmu24p/4f3m3ycusia7vjhu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/learn_rust-20zevlgb18uqb/s-g6wb7ojesl-dbk8b-1opv56rsmu24p/58kuxuyebzjze4rt.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/learn_rust-20zevlgb18uqb/s-g6wb7ojesl-dbk8b-1opv56rsmu24p/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/learn_rust-20zevlgb18uqb/s-g6wb7ojesl-dbk8b-1opv56rsmu24p/euqni4iyd6nx2zm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/learn_rust-20zevlgb18uqb/s-g6wb7ojesl-dbk8b-1opv56rsmu24p/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/learn_rust-20zevlgb18uqb/s-g6wb7ojesl-dbk8b-1opv56rsmu24p/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/learn_rust-20zevlgb18uqb/s-g6wb7ojesl-dbk8b.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/learn_rust" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/learn_rust" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -74,13 +106,28 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1644415488518" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="org.rust.disableDetachedFileInspection/Users/wonsungil/dev/repository/learn_rust/src/rand/main.rs" value="true" />
+    <property name="project.structure.last.edited" value="프로젝트" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="language.rust" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/hello" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/rand" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cargo.Run rand">
     <configuration name="Run Learn_rust" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="command" value="run --package learn_rust --bin learn_rust" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -95,8 +142,29 @@
       <option name="redirectInputPath" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Run rand" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package learn_rust --bin rand" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cargo.Run Learn_rust" />
+      <item itemvalue="Cargo.Run rand" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Cargo.Run rand" />
         <item itemvalue="Cargo.Run Learn_rust" />
       </list>
     </recent_temporary>
@@ -124,7 +192,7 @@
       <workItem from="1644416889727" duration="385000" />
       <workItem from="1644417599416" duration="67000" />
       <workItem from="1644417696934" duration="265000" />
-      <workItem from="1644417988337" duration="177000" />
+      <workItem from="1644417988337" duration="1420000" />
     </task>
     <servers />
   </component>

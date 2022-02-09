@@ -3,6 +3,14 @@ name = "learn_rust"
 version = "0.1.0"
 edition = "2021"
 authors = ["won <starship91@gmail.com>"]
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "hello"
+path = "src/hello/main.rs"
+
+[[bin]]
+name = "rand"
+path = "src/rand/main.rs"
 
 [dependencies]
+rand = "0.3.14"
